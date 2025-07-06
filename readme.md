@@ -48,7 +48,10 @@ pip install streamlit pandas plotly seaborn matplotlib
 
 
 # ▶️ Run the App
-streamlit run app.py
+streamlit run app.py -- older version.
+
+streamlit run app_v1.py -- newer version with lastest updates
+
 
 
 ## This will launch the app locally
