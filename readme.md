@@ -55,3 +55,53 @@ streamlit run app_v1.py -- newer version with lastest updates
 
 
 ## This will launch the app locally
+
+```
+
+
+---
+
+## 📘 Agile Learning & Project Experience
+
+While this repository contains the technical implementation of the dashboard, a major focus of this project was **learning and applying Agile (SCRUM) practices in a real-world team setting**.
+
+We worked as a Scrum team with defined roles:
+
+- **Product Owner** – Dheeraj Parui  
+- **Scrum Master** – Nilesh Mahato  
+- **Developers** – All team members  
+
+### 🧩 Agile Approach Followed
+
+- Worked in **2 short sprints** (1 week each)
+- Managed tasks using **Trello board** (To-do → Doing → Done)
+- Conducted sprint planning and review meetings
+- Used **WhatsApp for daily communication and updates**
+- Delivered incremental features after each sprint
+
+### ⚙️ Tools Used
+
+- **Trello** – Task and sprint management  
+- **GitHub** – Code repository and version control  
+- **Streamlit (Python)** – Dashboard development  
+- **WhatsApp** – Team communication  
+
+### 📈 Key Learnings
+
+- Importance of **team collaboration and communication**
+- Value of **incremental delivery and feedback**
+- Real-world experience of **Scrum roles and workflows**
+- Understanding strengths and limitations of Agile in small teams
+
+### 📄 Project Submission Document
+
+The detailed Agile process, analysis, and reflections are documented in our final submission:
+
+📎 See attached document: `final_agile_work.docx` :contentReference[oaicite:0]{index=0}
+
+This document includes:
+- Team structure and roles
+- Sprint planning and execution
+- Agile practices followed
+- Strengths, weaknesses, and improvements
+- Project reflections
